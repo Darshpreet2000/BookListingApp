@@ -1,1 +1,1 @@
-A simple mobile app to view Covid19 statistics 🦠
+A simple app which lists all books from Google Books API
