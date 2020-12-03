@@ -1,2 +1,4 @@
-Lists Books from Google Books API
-Allows Searching in Book
+- Lists Books from Google Books API
+- Shows Images of Books with Title , Subtitle & Date Of Publish
+- Allows Searching for Books
+- Clicking a Book Opens Book in Google Play Store & shows details of it
